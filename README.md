@@ -1,4 +1,4 @@
-### *Professional C#, C++ and operating system liker*
+### *Professional C#, C++ and operating system enjoyer.*
 
 <!--
 **SmandinPY/SmandinPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
