@@ -1,5 +1,6 @@
 ### *Professional C#, C++ and operating system enjoyer.*
 
+<p align="center">
 Hello, i'm Smandin. 
 
 <!--
