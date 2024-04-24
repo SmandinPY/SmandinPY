@@ -1,5 +1,4 @@
-<p align="center">
-  ### *Professional C#, C++ and operating system enjoyer.*
+### *Professional C#, C++ and operating system enjoyer.*
 
 Hello, i'm Smandin. 
 
