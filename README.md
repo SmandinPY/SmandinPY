@@ -9,6 +9,7 @@ Stuff i enjoy:
 🚀 Rockets<br>
 🗺 Geography<br>
 💻 Coding & Programming<br>
+💿 Operating Systems<br>
   
 <p align="center">
 Website - https://smandinpy.github.io/
