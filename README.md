@@ -1,4 +1,4 @@
-### *Professional C#, C++ and operating system enjoyer.*
+### *Professional Haskell and operating system enjoyer.*
 
 <p align="center">
 Hello, i'm Smandin. I'm a developer that has experience with both front-end and back-end. I use arch btw.
