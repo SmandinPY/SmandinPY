@@ -1,4 +1,4 @@
-### *Professional Haskell and operating system enjoyer.*
+### *the flag of vanuatu*
 
 <p align="center">
 Hello, i'm Smandin. I'm a developer that has experience with both front-end and back-end. I use arch btw.
